@@ -19,6 +19,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gtsEaCKhr931LuXPHzJNYsAmcF" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lab16" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\evg\Desktop\GrishkovaEvgenyaAndreevna\GitHub\ikbo-01-19\src\lab16" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\evg\Desktop\GrishkovaEvgenyaAndreevna\GitHub\ikbo-01-19" />
+      <recent name="C:\Users\evg\Desktop\GrishkovaEvgenyaAndreevna\GitHub\ikbo-01-19\src" />
+      <recent name="C:\Users\evg\Desktop\GrishkovaEvgenyaAndreevna\GitHub\ikbo-01-19\src\lab5" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -31,33 +44,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestBook">
-    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestBall" />
+  <component name="RunManager" selected="Application.UI">
+    <configuration name="Container" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10.Container" />
       <module name="ikbo-01-19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestBook" />
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab9.Exception2" />
       <module name="ikbo-01-19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestDog" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.Main" />
       <module name="ikbo-01-19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab9.ThrowsDemo" />
+      <module name="ikbo-01-19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab16.UI" />
+      <module name="ikbo-01-19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestBook" />
-        <item itemvalue="Application.TestBall" />
-        <item itemvalue="Application.TestDog" />
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.Container" />
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.ThrowsDemo" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +138,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
